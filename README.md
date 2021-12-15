@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ddashdev
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Roblox Game Development
+- 📫 How to reach me = Discord ddash#5203
